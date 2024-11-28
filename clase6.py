@@ -1,4 +1,5 @@
 import streamlit as st 
+import groq as Groq
 from groq import Groq
 CLAVE_API='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'
 
